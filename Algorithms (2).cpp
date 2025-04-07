@@ -1,4 +1,4 @@
-//taliyarial1@gmail.co
+//taliyarial1@gmail.com
 #include <iostream>
 #include "Algorithms.hpp"
 #include "Graph.hpp"
